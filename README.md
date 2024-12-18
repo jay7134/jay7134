@@ -1,7 +1,7 @@
 ## Hi there, I'm Javed Iqbal 👋
 
 ## About Me
-I'm a passionate developer with experience in various programming languages and tools. I enjoy building projects that solve real-world problems and continuously learning new technologies.
+I'm a passionate fullstack developer with experience in various programming languages and tools. I enjoy building projects that solve real-world problems and continuously learning new technologies.
 
 ## Tools and Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
